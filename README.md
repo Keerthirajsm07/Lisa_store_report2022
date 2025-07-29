@@ -43,3 +43,29 @@ This project involves data cleaning, processing, analysis, visualization, and ge
 - *Age Group:=IF(E2>=50,"Senior",IF(E2<=30,"Teenager","Adult"))* 
 
 - *Month Extraction:=TEXT(G2,"mmm")     // short month (Feb),  =TEXT(G2,"mmmm")    // full month (February)*
+
+
+---
+
+## 📂 Files Included
+- Vrinda_Sales_2022.xlsx → Raw and cleaned dataset  
+- Vrinda_Sales_Report.xlsx → Final analysis and dashboards  
+- README.md → Project documentation  
+
+---
+
+## 🚀 How to Use
+1. Download the Excel files.
+2. Open Vrinda_Sales_Report.xlsx.
+3. Explore dashboards and pivot tables to view insights.
+
+---
+
+## 📈 Tools Used
+- Microsoft Excel (Data Cleaning, Pivot Tables, Dashboards)
+
+---
+
+## 👤 Author
+Keerthiraj S M  
+Bachelor of Computer Applications (BCA), University of Mysore
