@@ -40,4 +40,6 @@ This project involves data cleaning, processing, analysis, visualization, and ge
 ---
 
 ## 🧮 Excel Formulas Used
-- *Age Group:*
+- *Age Group:=IF(E2>=50,"Senior",IF(E2<=30,"Teenager","Adult"))* 
+
+- *Month Extraction:=TEXT(G2,"mmm")     // short month (Feb),  =TEXT(G2,"mmmm")    // full month (February)*
